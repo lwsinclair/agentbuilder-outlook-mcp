@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jayozer-agentbuilder-outlook-mcp-badge.png)](https://mseep.ai/app/jayozer-agentbuilder-outlook-mcp)
+
 # Agentbuilder Outlook MCP Server
 
 [![FastMCP Deployment](https://img.shields.io/badge/FastMCP-Live-green)](https://agentbuilder-outlook-mcp.fastmcp.app/mcp)
